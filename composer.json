@@ -7,6 +7,10 @@
         "playground",
         "util"
     ],
+    "support": {
+        "issues": "https://github.com/plg2006/util/issues",
+        "source": "https://github.com/plg2006/util"
+    },
     "authors": [
         {
             "name": "Playground",
