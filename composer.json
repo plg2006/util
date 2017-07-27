@@ -1,0 +1,28 @@
+{
+    "name": "plg/util",
+    "description": "Playground utils",
+    "type": "library",
+    "license": "MIT",
+    "keywords" : [
+        "playground",
+        "util"
+    ],
+    "authors": [
+        {
+            "name": "Playground",
+            "email": "web@playground.it"
+        },
+        {
+            "name": "Mirko Ferraro",
+            "email": "mirkoferraro@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Plg\\Util\\": "src/Util/"
+        }
+    },
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
